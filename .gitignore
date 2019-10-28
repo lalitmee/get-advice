@@ -1,0 +1,7 @@
+node_modules
+.next
+yarn-error.log
+build
+.DS_Store
+.env
+bundles
